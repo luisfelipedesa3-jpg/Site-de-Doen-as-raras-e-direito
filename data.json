@@ -1,0 +1,463 @@
+[
+  {
+    "nome": "Esclerose Lateral Amiotrófica (ELA)",
+    "descricao": "Doença neurodegenerativa progressiva que afeta as células nervosas no cérebro e na medula espinhal, levando à perda do controle muscular.",
+    "imagem_url": "https://saudeinterior.org/wp-content/uploads/2023/10/esclerose-lateral-amiotrofica-ela.jpg",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/ela",
+    "tags": [
+      "doença rara",
+      "neurologia",
+      "doença degenerativa",
+      "motor"
+    ]
+  },
+  {
+    "nome": "Fibrose Cística",
+    "descricao": "Doença genética crônica que afeta principalmente os pulmões, pâncreas e sistema digestivo, produzindo muco espesso que pode levar a obstruções.",
+    "imagem_url": "https://www.nupad.medicina.ufmg.br/wp-content/uploads/2015/09/pancreaspulmao_muco-1.jpg",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/fibrose-cistica",
+    "tags": [
+      "doença rara",
+      "genética",
+      "pulmonar",
+      "crônica"
+    ]
+  },
+  {
+    "nome": "Doença de Huntington",
+    "descricao": "Condição hereditária que causa a degeneração progressiva das células nervosas no cérebro, afetando movimentos, cognição e comportamento.",
+    "imagem_url": "https://www.infoescola.com/wp-content/uploads/2011/02/doenca-huntington-311615132.jpg",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-cerebrais-da-medula-espinal-e-dos-nervos/doen%C3%A7as-do-movimento/doen%C3%A7a-de-huntington",
+    "tags": [
+      "doença rara",
+      "genética",
+      "neurologia",
+      "hereditária"
+    ]
+  },
+  {
+    "nome": "Direito ao Tratamento Fora de Domicílio (TFD)",
+    "descricao": "Benefício que garante transporte e, quando indicado, ajuda de custo para alimentação e pernoite a pacientes do SUS que precisam de tratamento em outra cidade.",
+    "imagem_url": "https://static.wixstatic.com/media/043822_f29e19490f5549cf86a79976e200eccd~mv2.jpg/v1/fill/w_961,h_621,al_c,q_85/043822_f29e19490f5549cf86a79976e200eccd~mv2.jpg",
+    "tipo": "Direito do Paciente",
+    "link_mais_info": "https://www.saude.sp.gov.br/resources/ses/perfil/gestor/homepage/manual-do-tratamento-fora-do-domicilio-tfd/manual_tfd_2009_aprovado_na_ct.pdf",
+    "tags": [
+      "direito",
+      "sus",
+      "tratamento",
+      "transporte"
+    ]
+  },
+  {
+    "nome": "Isenção de Impostos na Compra de Veículos (PCD)",
+    "descricao": "Pessoas com deficiência (PCD) ou certas patologias que comprometem a mobilidade têm direito à isenção de IPI, IOF, ICMS e IPVA na compra de veículos adaptados.",
+    "imagem_url": "https://carangoslegais.com.br/wp-content/uploads/2021/02/Carro-Sem-Imposto-Como-Conseguir.jpg",
+    "tipo": "Direito do Paciente",
+    "link_mais_info": "https://portal.fazenda.sp.gov.br/servicos/isencao-icms-veiculos/Paginas/PaginaGuiaDoUsuario.aspx",
+    "tags": [
+      "direito",
+      "pcd",
+      "isenção fiscal",
+      "veículo"
+    ]
+  },
+  {
+    "nome": "Deficiência de Timidina Quinase 2 (TK2d)",
+    "descricao": "Uma doença mitocondrial rara e genética que causa fraqueza muscular progressiva (miopatia) devido à diminuição da quantidade de DNA mitocondrial nas células musculares.",
+    "imagem_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxs8zdh-DvuoSJ0N_5nyYOzJarWM0V2vPaQW75DadJxzHdIekbAgUtLd2pXH0IDjiftg&usqp=CAU",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.tk2d.com/",
+    "tags": [
+      "doença rara",
+      "genética",
+      "mitocondrial",
+      "miopatia"
+    ]
+  },
+  {
+    "nome": "Atrofia Muscular Espinhal (AME)",
+    "descricao": "Doença genética rara e degenerativa que afeta a parte do sistema nervoso que controla os movimentos musculares voluntários, causando fraqueza e atrofia progressiva.",
+    "imagem_url": "https://saude.novartis.com.br/atrofia-muscular-espinhal-ame/wp-content/uploads/sites/29/2024/07/01_oquee_atrofiamuscularespinhal2.png",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/ame",
+    "tags": [
+      "doença rara",
+      "genética",
+      "neuromuscular",
+      "motor"
+    ]
+  },
+  {
+    "nome": "Distrofia Muscular de Duchenne",
+    "descricao": "Doença genética degenerativa que afeta principalmente meninos, causando fraqueza muscular progressiva que leva à perda dos movimentos.",
+    "imagem_url": "https://i0.wp.com/blog.mendelics.com.br/wp-content/uploads/2022/09/distrofia-muscular-duchenne.png?fit=1920%2C1080&ssl=1",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/distrofia-muscular-de-duchenne/",
+    "tags": [
+      "doença rara",
+      "genética",
+      "degenerativa",
+      "muscular"
+    ]
+  },
+  {
+    "nome": "Hipotireoidismo Congênito",
+    "descricao": "Condição em que a glândula tireoide do recém-nascido não produz hormônios tireoidianos suficientes. É uma das principais causas de deficiência intelectual prevenível, detectada pelo Teste do Pezinho.",
+    "imagem_url": "https://www.casahunter.org.br/wp-content/uploads/2022/11/Hipotireoidismo-Congenito.jpg",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/hipotireoidismo/",
+    "tags": [
+      "doença rara",
+      "congênito",
+      "hormonal",
+      "teste do pezinho"
+    ]
+  },
+  {
+    "nome": "Acidúria Glutárica Tipo II (MADD)",
+    "descricao": "Distúrbio metabólico genético raro que impede o corpo de converter gorduras e proteínas em energia, levando ao acúmulo de substâncias tóxicas no organismo.",
+    "imagem_url": "https://i0.wp.com/blog.mendelics.com.br/wp-content/uploads/2022/02/Blog-Mendelics-%E2%80%93-Doencas-Raras-Aciduria-Glutarica_Imagem-de-corpo.png?ssl=1",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/aciduria-glutarica-tipo-ii.php",
+    "tags": [
+      "doença rara",
+      "genética",
+      "metabólica",
+      "metabolismo"
+    ]
+  },
+  {
+    "nome": "Acondroplasia",
+    "descricao": "A forma mais comum de nanismo, uma desordem genética do crescimento ósseo que causa baixa estatura desproporcional.",
+    "imagem_url": "https://hcp.biomarin.com/pt-br/achondroplasia/wp-content/uploads/sites/8/2024/04/infographic_ptbr.png?v=0.120",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/acondroplasia/",
+    "tags": [
+      "doença rara",
+      "genética",
+      "nanismo",
+      "óssea"
+    ]
+  },
+  {
+    "nome": "Alcaptonúria",
+    "descricao": "Distúrbio metabólico genético raro que impede o corpo de processar adequadamente certos aminoácidos, levando ao acúmulo de ácido homogentísico. Isso pode causar escurecimento da urina, artrite e problemas cardíacos.",
+    "imagem_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndavzCnopn80L040kypikkQ6IdE4v4e9-JA&s",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/alcaptonuria-2/",
+    "tags": [
+      "doença rara",
+      "genética",
+      "metabólica",
+      "artrite"
+    ]
+  },
+  {
+    "nome": "Alfa Talassemia",
+    "descricao": "Distúrbio sanguíneo hereditário que reduz a produção de hemoglobina, a proteína nos glóbulos vermelhos que transporta oxigênio, resultando em anemia de gravidade variável.",
+    "imagem_url": "https://www.cordvida.com.br/wp-content/uploads/2024/03/folheto-talassemia-infografico.webp",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/alfa-talassemia.php",
+    "tags": [
+      "doença rara",
+      "genética",
+      "sangue",
+      "anemia"
+    ]
+  },
+  {
+    "nome": "Amiloidose hereditária por transtirretina (ATTRv)",
+    "descricao": "Doença genética rara, progressiva e fatal, causada pela deposição de fibrilas amiloides da proteína transtirretina em vários órgãos, afetando principalmente nervos, coração e trato gastrointestinal.",
+    "imagem_url": "https://www.casahunter.org.br/wp-content/uploads/2025/09/Amiloidose-hereditaria-por-transtirretina.jpg",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/amiloidose-hereditaria-por-transtirretina-attrv/",
+    "tags": [
+      "doença rara",
+      "genética",
+      "hereditária",
+      "neuropatia"
+    ]
+  },
+  {
+    "nome": "Anemia de Fanconi",
+    "descricao": "Doença genética rara que afeta a medula óssea, resultando em diminuição da produção de todas as células sanguíneas. Aumenta o risco de leucemia e outros tipos de câncer.",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Autorecessive-pt.png",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/anemia-de-fanconi/",
+    "tags": [
+      "doença rara",
+      "genética",
+      "anemia",
+      "medula óssea",
+      "câncer"
+    ]
+  },
+  {
+    "nome": "Deficiência de Esfingomielinase Ácida (ASMD)",
+    "descricao": "Doença genética rara e progressiva causada pela deficiência da enzima esfingomielinase ácida, levando ao acúmulo de esfingomielina nas células de vários órgãos, como baço, fígado, pulmões e cérebro.",
+    "imagem_url": "https://cdd.org.br/wp-content/uploads/2023/01/CDD_POSTLINK_230123.png",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/asmd/",
+    "tags": [
+      "doença rara",
+      "genética",
+      "metabólica",
+      "niemann-pick"
+    ]
+  },
+  {
+    "nome": "Ataxia de Friedreich",
+    "descricao": "Doença genética, neurodegenerativa e progressiva que afeta o sistema nervoso, causando perda de coordenação e equilíbrio, dificuldade na fala e problemas cardíacos.",
+    "imagem_url": "https://s3.static.brasilescola.uol.com.br/be/2023/09/ataxia-sintomas.jpg",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/ataxia-de-friedreich.php",
+    "tags": [
+      "doença rara",
+      "genética",
+      "neurologia",
+      "degenerativa",
+      "ataxia"
+    ]
+  },
+  {
+    "nome": "Cistinose",
+    "descricao": "Doença metabólica genética rara caracterizada pelo acúmulo do aminoácido cistina dentro das células, o que pode causar danos a vários órgãos, principalmente rins e olhos.",
+    "imagem_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5Dg_9Cog463G181zeBa2znoi9BXY4xDD4g&s",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/cistinose-2/",
+    "tags": [
+      "doença rara",
+      "genética",
+      "metabólica",
+      "renal",
+      "cistina"
+    ]
+  },
+  {
+    "nome": "Cistinúria",
+    "descricao": "Doença genética rara que causa a formação de pedras (cálculos) do aminoácido cistina nos rins, ureteres e bexiga, devido a um defeito no transporte de aminoácidos.",
+    "imagem_url": "https://www.casahunter.org.br/doencas-raras/assets/imgs-contratadas/cistinose-01.webp",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/cistinuria.php",
+    "tags": [
+      "doença rara",
+      "genética",
+      "renal",
+      "cálculo renal",
+      "cistina"
+    ]
+  },
+  {
+    "nome": "Craniossinostose (Craniostenose)",
+    "descricao": "Condição em que uma ou mais suturas do crânio de um bebê fecham prematuramente, causando problemas no crescimento normal do crânio e do cérebro.",
+    "imagem_url": "https://blog.gruposaolucas.com.br/wp-content/uploads/2021/07/imagem_2021-07-21_100745-300x222.png",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/craniostenose.php",
+    "tags": [
+      "doença rara",
+      "congênito",
+      "crânio",
+      "neurologia",
+      "cirurgia"
+    ]
+  },
+  {
+    "nome": "Deficiência de Alfa-1 Antitripsina (AATD)",
+    "descricao": "Uma condição genética que aumenta o risco de desenvolver doenças pulmonares (como enfisema) e hepáticas. É causada pela falta da proteína alfa-1 antitripsina, que protege os pulmões de danos.",
+    "imagem_url": "https://dreduardoramos.com.br/wp-content/uploads/2016/02/doenc%CC%A7as_heredita%CC%81rias_eduardo_ramos_3-600x460.png",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/daat/7",
+    "tags": [
+      "doença rara",
+      "genética",
+      "pulmonar",
+      "hepática",
+      "enfisema"
+    ]
+  },
+  {
+    "nome": "Deficiência de Biotinidase",
+    "descricao": "Doença metabólica hereditária em que o corpo não consegue reciclar a vitamina biotina. Se não tratada, pode levar a problemas neurológicos e de pele. É detectável pelo Teste do Pezinho.",
+    "imagem_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlY_U-wxRJq_ce5tWobC5CydB5f-IAWBhqTg&s",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/deficiencia-biotinidase.php",
+    "tags": [
+      "doença rara",
+      "genética",
+      "metabólica",
+      "teste do pezinho",
+      "biotina"
+    ]
+  },
+  {
+    "nome": "Displasia Fibrosa Poliostótica",
+    "descricao": "Doença óssea rara em que tecido fibroso anormal se desenvolve no lugar do osso normal, afetando múltiplos ossos. Pode causar fraturas, deformidades e dor.",
+    "imagem_url": "https://anatpat.unicamp.br/Dscn77651a++.jpg",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/displasia-fibrosa-poliostotica.php",
+    "tags": [
+      "doença rara",
+      "óssea",
+      "genética",
+      "fibrosa"
+    ]
+  },
+  {
+    "nome": "Distrofia Muscular de Cinturas",
+    "descricao": "Grupo de doenças genéticas raras que causam fraqueza e atrofia progressiva dos músculos das cinturas pélvica (quadris) e escapular (ombros).",
+    "imagem_url": "https://www.casahunter.org.br/doencas-raras/assets/imgs-contratadas/distrofia-muscular-das-cinturas-01.webp",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/distrofia-muscular-das-cinturas.php",
+    "tags": [
+      "doença rara",
+      "genética",
+      "muscular",
+      "degenerativa",
+      "cinturas"
+    ]
+  },
+  {
+    "nome": "Doença de Castleman",
+    "descricao": "Grupo de doenças raras que envolvem o crescimento excessivo de células nos linfonodos, podendo afetar um único linfonodo (unicêntrica) ou múltiplos (multicêntrica).",
+    "imagem_url": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/castleman-disease",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doenca-de-castleman/",
+    "tags": [
+      "doença rara",
+      "linfonodos",
+      "sistema linfático",
+      "imunologia"
+    ]
+  },
+  {
+    "nome": "Doença de Fabry",
+    "descricao": "Doença genética rara de armazenamento lisossômico causada pela deficiência da enzima alfa-galactosidase A, levando ao acúmulo de uma gordura (Gb3) em vários órgãos, como rins, coração e sistema nervoso.",
+    "imagem_url": "https://blog.mendelics.com.br/wp-content/uploads/2021/10/fabry-blog-sem-bolinhas.png",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/doenca-fabry.php",
+    "tags": [
+      "doença rara",
+      "genética",
+      "metabólica",
+      "lisossômica"
+    ]
+  },
+  {
+    "nome": "Doença de Inclusão das Microvilosidades (DIM)",
+    "descricao": "Doença genética rara que afeta o intestino, causando diarreia aquosa grave e intratável desde o nascimento, levando à má absorção de nutrientes.",
+    "imagem_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsf8c7fmqTE6pKFev1_0GBn-zYNB7HN7NCcw&s",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doenca-de-inclusao-das-microvilosidades-dim/",
+    "tags": [
+      "doença rara",
+      "genética",
+      "congênito",
+      "intestinal",
+      "diarreia"
+    ]
+  },
+  {
+    "nome": "Doença Ocular da Tireoide (DOT)",
+    "descricao": "Uma condição autoimune em que o sistema imunológico ataca os tecidos ao redor dos olhos, causando inflamação, inchaço e, em casos graves, problemas de visão. Está frequentemente associada à Doença de Graves.",
+    "imagem_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJX6GU17TSnuOnPjTWyKBqPCVcpb0OOFXRg&s",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doenca-ocular-da-tireoide-dot/",
+    "tags": [
+      "doença rara",
+      "autoimune",
+      "oftalmologia",
+      "tireoide",
+      "doença de graves"
+    ]
+  },
+  {
+    "nome": "Doença de Pompe",
+    "descricao": "Doença genética rara, neuromuscular e metabólica que causa fraqueza muscular progressiva devido ao acúmulo de glicogênio nos lisossomos.",
+    "imagem_url": "https://www.idtech.org.br/uploads/23487_pompe.jpeg",
+    "tipo": "Doença Rara",
+    "link_mais_info": "https://www.casahunter.org.br/doencas-raras/doenca-pompe.php",
+    "tags": [
+      "doença rara",
+      "genética",
+      "metabólica",
+      "neuromuscular",
+      "glicogênio"
+    ]
+  },
+  {
+    "nome": "Direito à Educação Especial Inclusiva",
+    "descricao": "Garante a matrícula de alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação na rede regular de ensino, com acesso a recursos de acessibilidade e Atendimento Educacional Especializado (AEE).",
+    "imagem_url": "https://imgs.jusbr.com/publications/artigos/images/criancas-na-escola-jpg.jpg",
+    "tipo": "Direito do Paciente",
+    "link_mais_info": "https://www.gov.br/mec/pt-br/assuntos/noticias/2025/outubro/governo-institui-a-politica-nacional-de-educacao-especial-inclusiva",
+    "tags": [
+      "direito",
+      "educação",
+      "inclusão",
+      "pcd",
+      "lei"
+    ]
+  },
+  {
+    "nome": "Transtorno do Espectro Autista (TEA)",
+    "descricao": "Uma condição de neurodesenvolvimento caracterizada por desafios na comunicação e interação social, e por padrões de comportamento, interesses ou atividades restritos e repetitivos.",
+    "imagem_url": "https://media.unimedcampinas.com.br/7aa3791f-018f-4694-8180-a71730ffc504",
+    "tipo": "Condição de Neurodesenvolvimento",
+    "link_mais_info": "https://institutosingular.org/blog/o-que-e-autismo/?utm_source=google-ads&utm_campaign=21759940711&utm_medium=&utm_content=&utm_term=&gad_source=1&gad_campaignid=21759942607&gbraid=0AAAAACbQ0RxdwlP9lDxfeVeIYqHlzJ2S7&gclid=CjwKCAiA24XJBhBXEiwAXElO3_EZnkLRzETfm3gRNqOejpXR_y6Wa2Bese0dtoxbXHrPTLUsTAJrnBoC4Z4QAvD_BwE",
+    "tags": [
+      "autismo",
+      "neurodesenvolvimento",
+      "comunicação",
+      "interação social",
+      "tea"
+    ]
+  },
+  {
+    "nome": "Política Nacional de Proteção dos Direitos da Pessoa com TEA (Lei Berenice Piana)",
+    "descricao": "Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista. Garante o direito a diagnóstico precoce, tratamento, terapias, educação e proteção social, além de considerar a pessoa com TEA como pessoa com deficiência para todos os efeitos legais.",
+    "imagem_url": "https://ordemdemocratica.com.br/wp-content/uploads/2025/04/Inserir-um-titulo-2025-04-12T212707.225-768x432.png",
+    "tipo": "Direito do Paciente",
+    "link_mais_info": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12764.htm",
+    "tags": [
+      "direito",
+      "lei",
+      "autismo",
+      "tea",
+      "pcd",
+      "lei berenice piana"
+    ]
+  },
+  {
+    "nome": "Direito ao Transporte e Mobilidade da Pessoa com Deficiência",
+    "descricao": "Garante o acesso gratuito ao transporte coletivo interestadual (Passe Livre) para pessoas com deficiência comprovadamente carentes, além de assentos reservados e acessibilidade em transportes públicos.",
+    "imagem_url": "https://www12.senado.leg.br/noticias/infomaterias/2022/07/projetos-buscam-aumentar-direito-a-mobilidade-de-pessoas-com-deficiencia/onibus/@@images/imagem",
+    "tipo": "Direito do Paciente",
+    "link_mais_info": "https://www.pcdlegal.com.br/lbi/art-46-ao-52/?versao=dvisual",
+    "tags": [
+      "direito",
+      "pcd",
+      "transporte",
+      "mobilidade",
+      "passe livre",
+      "lei"
+    ]
+  },
+  {
+    "nome": "Direito a Atendimento Preferencial/Prioritário",
+    "descricao": "Garante que pessoas com deficiência, idosos, gestantes, lactantes, pessoas com crianças de colo e obesos tenham prioridade no atendimento em repartições públicas, empresas concessionárias de serviços públicos e instituições financeiras.",
+    "imagem_url": "https://alexandreperes.com.br/wp-content/uploads/2017/12/atendimento-preferencial-indaiatuba-Alexandre-Peres.png",
+    "tipo": "Direito do Paciente",
+    "link_mais_info": "https://www.planalto.gov.br/ccivil_03/leis/l10048.htm",
+    "tags": [
+      "direito",
+      "lei",
+      "atendimento prioritário",
+      "pcd",
+      "idoso",
+      "gestante"
+    ]
+  }
+]
